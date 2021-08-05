@@ -8,7 +8,7 @@
 
   Pod::Spec.new do |s|
   s.name             = 'AnyThinkVungleSDK'
-  s.version          = '0.1.0'
+  s.version          = '6.10.1'
   s.summary          = 'AnyThinkVungleSDK'
   s.description      = <<-DESC
       AnyThinkVungleSDK,Vungle,Vungle
